@@ -57,6 +57,7 @@ SIEM • Threat Detection • Security Frameworks • Incident Response • Vuln
 [![WiMLDS](https://img.shields.io/badge/WiMLDS-Member-FF69B4?style=for-the-badge&logo=meetup)](https://wimlds.org/)
 [![Data for Good](https://img.shields.io/badge/Data_for_Good-Volunteer-4CAF50?style=for-the-badge&logo=earth)](https://dataforgood.fr/)
 [![Le Wagon](https://img.shields.io/badge/Le_Wagon-Alumni-FF4B4B?style=for-the-badge&logo=steam)](https://www.lewagon.com/)
+[![DataScientest](https://img.shields.io/badge/DataScientest-Alumni-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://datascientest.com/)
 [![Ada Tech School](https://img.shields.io/badge/Ada_Tech_School-Community-9C27B0?style=for-the-badge&logo=graduation-cap)](https://adatechschool.fr/)
 
 ---
