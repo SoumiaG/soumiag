@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Soumia 👋 
 
-## About Me
+## 💫 About Me
 
 I'm a builder at heart—passionate about crafting elegant solutions through code. Whether it's designing scalable data pipelines, architecting cloud-native applications, or experimenting with cutting-edge AI models, I thrive on turning complex problems into clean, functional systems.
 
@@ -12,10 +12,15 @@ With 10+ years across cybersecurity, cloud, data engineering, and AI—spanning 
 
 ## 🌟 Volunteer Projects
 
-### Data for Good & Tomorrow
+### 🌱 [Data for Good & Tomorrow](https://github.com/SoumiaG/dish-carbon-calculator)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SoumiaG/dish-carbon-calculator)
+
 Developed a calculator to assess and reduce the carbon footprint of meal ingredients, leveraging MIT's Recipe1M+ dataset, Computer Vision and NLP.
 
-### Inria
+**Tech Stack**: Python • Streamlit • PyTorch • BLIP Model • Computer Vision
+
+### 🧠 Inria
 Trained, tested, and evaluated multiple machine learning models to predict Alzheimer's Disease, selecting and deploying the most effective model on GCP as part of the final project in an intensive Data Science Bootcamp.
 
 ---
