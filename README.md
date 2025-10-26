@@ -50,6 +50,17 @@ LangChain • OpenAI API • Anthropic Claude • Vector Databases (Pinecone, We
 ### Cybersecurity
 SIEM • Threat Detection • Security Frameworks • Incident Response • Vulnerability Assessment
 
+---
+
+## 🤝 Communities
+
+[![WiMLDS](https://img.shields.io/badge/WiMLDS-Member-FF69B4?style=for-the-badge&logo=meetup)](https://wimlds.org/)
+[![Data for Good](https://img.shields.io/badge/Data_for_Good-Volunteer-4CAF50?style=for-the-badge&logo=earth)](https://dataforgood.fr/)
+[![Le Wagon](https://img.shields.io/badge/Le_Wagon-Alumni-FF4B4B?style=for-the-badge&logo=steam)](https://www.lewagon.com/)
+[![Ada Tech School](https://img.shields.io/badge/Ada_Tech_School-Community-9C27B0?style=for-the-badge&logo=graduation-cap)](https://adatechschool.fr/)
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumia-ghalim/)
