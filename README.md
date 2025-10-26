@@ -2,9 +2,11 @@
 
 ## About Me
 
-Over 10+ years, I've navigated the evolving landscape of cybersecurity, cloud, data engineering, and Generative AI—building scalable, resilient systems that transform how organizations operate. From threat detection frameworks to data pipelines processing millions of events, to AI models driving real-world impact, I focus on solutions that evolve with complexity and scale.
+I'm a builder at heart—passionate about crafting elegant solutions through code. Whether it's designing scalable data pipelines, architecting cloud-native applications, or experimenting with cutting-edge AI models, I thrive on turning complex problems into clean, functional systems.
 
-My journey has spanned 20+ countries across Europe, Africa, and the Middle East, working with enterprises and startups on end-to-end projects that demand both strategic vision and hands-on execution. Driven by continuous learning, mentorship, and human-centered values, I thrive at the intersection of cutting-edge innovation and meaningful impact.
+**Python** is my go-to tool, but my real passion lies in the intersection of **design and engineering**—creating apps and systems that are not only powerful but intuitive. From cybersecurity frameworks to generative AI applications, I love diving deep into end-to-end projects that challenge me to think creatively and build iteratively.
+
+With 10+ years across cybersecurity, cloud, data engineering, and AI—spanning 20+ countries—I've learned that the best solutions emerge from collaboration, continuous learning, and a relentless focus on real-world impact. I'm here to share code, learn from the community, and build things that matter.
 
 ---
 
@@ -42,10 +44,12 @@ SIEM • Threat Detection • Security Frameworks • Incident Response • Vuln
 
 ## 📫 Let's Connect
 
-<!-- Add your contact/social links here
-- LinkedIn: [Your Profile](link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumia-ghalim/)
+
+<!-- Add more contact/social links here if you'd like
 - Email: your.email@example.com
 - Website: [yourwebsite.com](link)
+- Twitter: [@yourhandle](link)
 -->
 
 ---
