@@ -41,6 +41,9 @@ Apache Spark • Kafka • Airflow • Databricks • Snowflake • dbt • Delt
 ### Cloud Platforms
 AWS (Lambda, S3, EC2, RDS, Glue) • GCP (BigQuery, Cloud Functions, Compute Engine) • Azure • Terraform • Docker • Kubernetes
 
+### Machine Learning & Deep Learning
+TensorFlow • PyTorch • Scikit-learn • Keras • XGBoost • Computer Vision • NLP • Model Deployment • MLOps
+
 ### Generative AI
 LangChain • OpenAI API • Anthropic Claude • Vector Databases (Pinecone, Weaviate) • Prompt Engineering • RAG (Retrieval Augmented Generation) • LlamaIndex • Hugging Face
 
