@@ -52,6 +52,15 @@ SIEM • Threat Detection • Security Frameworks • Incident Response • Vuln
 
 ---
 
+## 📄 Publications
+
+**[A greedy approach to tolerate defect cores for multimedia applications](https://ieeexplore.ieee.org/document/6088517/)**  
+*2011 9th IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)*
+
+Developed a greedy algorithm to reconfigure defect-tolerant manycore platforms for multimedia applications, addressing timing variations in Network-on-Chip (NoC) architectures when defective cores are replaced by redundant ones.
+
+---
+
 ## 🤝 Communities
 
 [![WiMLDS](https://img.shields.io/badge/WiMLDS-Member-FF69B4?style=for-the-badge&logo=meetup)](https://wimlds.org/)
