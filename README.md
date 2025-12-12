@@ -14,6 +14,7 @@ With 10+ years across cybersecurity, cloud, data engineering, and AI—spanning 
 
 ### 🔐 [MCP Secure Gateway](https://github.com/SoumiaG/mcp-secure-gateway)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SoumiaG/mcp-secure-gateway)
+
 Production-ready API gateway with quantum-enhanced JWT authentication and Model Context Protocol (MCP) integration. Built from insights at API Days Paris 2025.
 **Tech Stack**: Python • FastAPI • QRNG • JWT • MCP • Docker • Redis • Prometheus
 
