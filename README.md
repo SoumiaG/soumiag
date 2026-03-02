@@ -10,6 +10,13 @@ With 10+ years across cybersecurity, cloud, data engineering, and AI—spanning 
 
 ---
 
+### 🧠 [AI Personality Lab](https://github.com/SoumiaG/oourmind)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SoumiaG/oourmind)
+
+**From 3D AI interpretability to "What if we built an AI personality test?"** — A hackathon-born project exploring the unexpected edge of AI-driven personality assessment. Built in 48 hours, this project blends psychology, machine learning, and a dash of creativity.
+**Tech Stack**: Python • FastAPI • Scikit-learn • NLTK • Streamlit • Docker
+
+
 ## 🌟  Projects
 
 ### 🔐 [MCP Secure Gateway](https://github.com/SoumiaG/mcp-secure-gateway)
