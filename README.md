@@ -17,7 +17,7 @@ A multi-agent AI debate engine — 👑 [The High Tech Court](thehightechcourt.i
 
 ---
 
-### 🧠 [AI Personality Lab](https://github.com/SoumiaG/oourmind)
+### 🧠 [oourmind.io](oourmind.io)  [AI Personality Lab](https://github.com/SoumiaG/oourmind)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SoumiaG/oourmind)
 
 **From 3D AI interpretability to "What if we built an AI personality test?"** — A Mistral AI hackathon-born project exploring the unexpected edge of AI-driven personality assessment. Built in 48 hours, this project blends psychology, machine learning, and a dash of creativity.
