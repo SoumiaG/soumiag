@@ -17,6 +17,14 @@ A multi-agent AI debate engine — **The High Tech Court** — where Gemini and 
 
 ---
 
+
+### 🎙️ [Multi-Agent Audio Orchestrator](https://github.com/SoumiaG/humiin-oss)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SoumiaG/humiin-oss)
+
+A multi-agent AI debate engine — **The High Tech Court** — where Gemini and Claude argue, and the output is a full-fidelity `.wav` file. The architecture decouples LLM reasoning from audio synthesis entirely, bypassing `bidiGenerateContent` WebSocket lockouts and Free-Tier rate limits with built-in pacing logic.
+
+**Tech Stack**: Python • Gemini 2.5 Flash • Claude Sonnet 4.6 • Gemini TTS • Multi-Agent Orchestration
+
 ---
 
 ### 🧠 [AI Personality Lab](https://github.com/SoumiaG/oourmind)
